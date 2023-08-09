@@ -26,5 +26,6 @@ To run the Jupyter Notebook successfully, please ensure you have the following d
 - This project assumes basic knowledge of Python and Jupyter Notebook.
 - Ensure that you have the required datasets or update the code to use your own dataset.
 
-## Contact Information
-If you have any questions or issues, please reach out to me at johnny.casares.7@gmail.com
+## Contact
+
+For any questions or feedback, you can reach out by reporting an issue or through [LinkedIn](https://www.linkedin.com/in/johnny-casares7/)
