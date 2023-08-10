@@ -4,7 +4,7 @@
 The Jupyter Notebook contains the code and analysis for my project.
 ## Report
 Check out the full report on the model
-[report file] (Final report Johnny Casares.pdf)
+[report file] (https://github.com/JohnnyCasares/Valorant_ML_Model/blob/main/Final%20report%20Johnny%20Casares.pdf)
 
 ## Prerequisites
 To run the Jupyter Notebook successfully, please ensure you have the following dependencies installed:
