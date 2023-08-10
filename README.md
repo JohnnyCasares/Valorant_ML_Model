@@ -1,7 +1,10 @@
 # ML model to predict Valorant match outcome
 
 ## Introduction
-The Jupyter Notebook contains the code and analysis for my project. 
+The Jupyter Notebook contains the code and analysis for my project.
+## Report
+Check out the full report on the model
+[report file] (Final report Johnny Casares.pdf)
 
 ## Prerequisites
 To run the Jupyter Notebook successfully, please ensure you have the following dependencies installed:
